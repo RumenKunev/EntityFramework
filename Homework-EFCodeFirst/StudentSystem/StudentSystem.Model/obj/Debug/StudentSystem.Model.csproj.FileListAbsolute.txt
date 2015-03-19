@@ -1,0 +1,9 @@
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\StudentSystem.Model.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\StudentSystem.Model.pdb
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\obj\Debug\StudentSystem.Model.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\obj\Debug\StudentSystem.Model.pdb
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\StudentSystem.Model.dll.config
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.SqlServer.xml

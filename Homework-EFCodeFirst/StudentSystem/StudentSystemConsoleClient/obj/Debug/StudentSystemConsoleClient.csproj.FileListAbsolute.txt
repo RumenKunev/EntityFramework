@@ -1,0 +1,14 @@
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystemConsoleClient.exe.config
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystemConsoleClient.exe
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystemConsoleClient.pdb
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystem.Data.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystem.Model.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystem.Data.pdb
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\StudentSystem.Model.pdb
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\obj\Debug\StudentSystemConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\obj\Debug\StudentSystemConsoleClient.exe
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystemConsoleClient\obj\Debug\StudentSystemConsoleClient.pdb

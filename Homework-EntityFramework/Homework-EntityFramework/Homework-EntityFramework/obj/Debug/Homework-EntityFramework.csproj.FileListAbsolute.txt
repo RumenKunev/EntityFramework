@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\Homework-EntityFramework.exe.config
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\Homework-EntityFramework.exe
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\Homework-EntityFramework.pdb
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\obj\Debug\Homework-EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\obj\Debug\Homework-EntityFramework.exe
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EntityFramework\Homework-EntityFramework\Homework-EntityFramework\obj\Debug\Homework-EntityFramework.pdb
