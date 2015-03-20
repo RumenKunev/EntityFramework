@@ -7,3 +7,4 @@ C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSys
 C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.xml
 C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\Desktop\GitHub\EntityFramework\Homework-EFCodeFirst\StudentSystem\StudentSystem.Model\obj\Debug\StudentSystem.Model.csprojResolveAssemblyReference.cache

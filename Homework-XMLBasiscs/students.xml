@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<students name="Students Accademy"
+          xmlns="urn:students">
+  <student>
+    <name>Rumen Kunev</name>
+    <gender>male</gender>
+    <birth-date>1977-08-31</birth-date>
+    <phone-number>0888888888</phone-number>
+    <e-mail>errg@abv.bg</e-mail>
+    <university>UNIVERSAL</university>
+    <specialty>Specialty</specialty>
+    <faculty-number>335523</faculty-number>
+    <exams>
+      <exam>
+        <name>First exam name</name>
+        <date>2015-02-28</date>
+        <grade>5.00</grade>
+      </exam>
+      <exam>
+        <name>Second exam name</name>
+        <date>2015-03-03</date>
+        <grade>4.35</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Ivan Ivanov</name>
+    <gender>male</gender>
+    <birth-date>1982-01-01</birth-date>
+    <phone-number>089999999872</phone-number>
+    <e-mail>ivan@abv.bg</e-mail>
+    <university>Oxford</university>
+    <specialty>Developer</specialty>
+    <faculty-number>897987</faculty-number>
+    <exams>
+      <exam>
+        <name>Onother exam</name>
+        <date>2015-03-04</date>
+        <grade>4.23</grade>
+      </exam>
+      <exam>
+        <name>Different exam</name>
+        <date>2015-03-08</date>
+        <grade>5.13</grade>
+      </exam>
+      <exam>
+        <name>Totally different exam</name>
+        <date>2015-03-08</date>
+        <grade>3.55</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Maria Petrova</name>
+    <gender>female</gender>
+    <birth-date>1986-03-23</birth-date>
+    <phone-number>0845349872</phone-number>
+    <e-mail>mpet@abv.bg</e-mail>
+    <university>Cambridge</university>
+    <specialty>QA</specialty>
+    <faculty-number>dd888aa</faculty-number>
+    <exams>
+      <exam>
+        <name>EXAM ONE</name>
+        <date>2015-03-04</date>
+        <grade>5.23</grade>
+      </exam>
+    </exams>
+  </student>
+</students>
